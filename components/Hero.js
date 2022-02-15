@@ -27,7 +27,7 @@ const Hero = () => {
               Discover, collect, and sell extraordinary NFTs
             </div>
             <div className={style.description}>
-              OpenSea is the world&apos;s first and largest NFT marketplace
+              Drivyr is the best way to showcase your cars across the blockchain
             </div>
             <div className={style.ctaContainer}>
               <button className={style.accentedButton}>Explore</button>
